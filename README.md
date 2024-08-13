@@ -14,7 +14,7 @@ Réalisé dans le cadres d'un projet de fin d'année de l'ENSIMAG.
 make
 ```
 
-### Éxécution
+### Exécution
 
 ```shell
 ./ppm2jpeg image.ppm
